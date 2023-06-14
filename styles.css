@@ -29,6 +29,7 @@ a {
     text-decoration: none;
     position: relative;
     transition: opacity 300ms ease;
+    cursor: not-allowed;
 }
 
 i:hover {
